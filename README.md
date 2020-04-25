@@ -1,7 +1,8 @@
 # MyレコーダーChromeアシスタント
 
-Chromeウェブストア - MyレコーダーChromeアシスタント・ページ
-https://chrome.google.com/webstore/detail/pifbdpooppfkllaiobkaoeocbfmpabaj/
+オリジナル
+> Chromeウェブストア - MyレコーダーChromeアシスタント・ページ
+> https://chrome.google.com/webstore/detail/pifbdpooppfkllaiobkaoeocbfmpabaj/
 
 勤怠管理システム「[Myレコーダー | KING OF TIME](https://www.kingtime.jp/record/myrecorder/)」を快適に使えるようにするためのChrome拡張です。
 

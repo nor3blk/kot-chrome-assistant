@@ -19,7 +19,7 @@
     "default_popup": "src/browser_action/browser_action.html"
   },
   "permissions": [
-    "https://s2.kingtime.jp/independent/recorder/personal/*",
+    "https://s3.kingtime.jp/independent/recorder/personal/*",
     "https://slack.com/api/*",
     "https://hooks.slack.com/services/*",
     "storage"
@@ -27,7 +27,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://s2.kingtime.jp/independent/recorder/personal/*"
+        "https://s3.kingtime.jp/independent/recorder/personal/*"
       ],
       "js": [
         "src/inject/inject.js"
